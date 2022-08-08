@@ -52,3 +52,7 @@ To get a local copy follow these simple steps:
 - Go to the repository folder using command prompt cd hello_rails.
 
 - Install the dev dependencies for linters run npm install.
+
+## Running ROR
+
+- Run the command rails server. `rails server` or `rails s`
